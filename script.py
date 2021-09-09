@@ -10,7 +10,6 @@ def opencsv():
        
 def getMovies(data):       
     movie = []
-    newlist = []
     for rows in data:
         for j in range(len(rows)):
             if rows[j] == 'movie':
