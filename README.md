@@ -1,2 +1,2 @@
-script que deixa apenas os filmes do imdb
-saida é imdbratings.csv
+script that removes all tv episodes from imdb exported csv file
+output is imdbratings.csv
